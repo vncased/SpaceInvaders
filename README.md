@@ -14,7 +14,7 @@
 - Several difficulty levels.
 - Rating and high score table for each difficulty level.
 - The game can be very exciting, allowing you to spend several minutes fighting enemies.
-- 
+
 ## Управление:
 - **Left Mouse Button (LMB)** или **Space** — Выстрел/Shot.
 - **Right Mouse Button (RMB)** или **E** — Тройной выстрел/Triple Shot.
