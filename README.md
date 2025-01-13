@@ -1,6 +1,8 @@
 # Space Invaders
 
 **Space Invaders** — это классическая аркадная игра, в которой вы набираете очки, стреляя по инопланетным врагам. Управляя космическим кораблем, вам предстоит уничтожать врагов и уворачиваться от их атак.
+
+
 **Space Invaders** is a classic arcade game where you score points by shooting at alien enemies. You control a spaceship to destroy enemies and dodge their attacks.
 
 ## О игре
