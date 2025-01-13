@@ -64,3 +64,14 @@
    ```bash
    pip install pygame
    ```
+
+###Запустить игру/Start Game
+**Windows**
+```bash
+python main.py
+```
+**Linux** 
+```bash
+python3 main.py
+```
+
