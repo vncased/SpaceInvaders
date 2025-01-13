@@ -65,7 +65,7 @@
    pip install pygame
    ```
 
-###Запустить игру/Start Game
+### Запустить игру/Start Game
 **Windows**
 ```bash
 python main.py
