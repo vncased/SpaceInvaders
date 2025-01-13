@@ -1,4 +1,4 @@
-import os
+dimport os
 import json
 import pygame
 import random
@@ -303,7 +303,7 @@ def game_over_screen(score, level):
 
 def main_game(difficulty, resume=False, prev_score=0):
     player = Player(screen_width // 2, screen_height - 60)
-    enemy_speed = {"easy": 3, "medium": 3, "hard": 4, "easy demon": 5, "medium demon": 6}[difficulty]
+    enemy_speed = {"easy": 4, "medium": 5, "hard": 6, "easy demon": 7, "medium demon": 8}[difficulty]
     enemy_count = {"easy": 15, "medium": 16, "hard": 17, "easy demon": 18, "medium demon": 19,}[difficulty]
     enemies = [Enemy(random.randint(0, screen_width - enemy_img.get_width()), random.randint(-100, -40), random.randint(1, enemy_speed)) for _ in range(enemy_count)]
     bullets = []
