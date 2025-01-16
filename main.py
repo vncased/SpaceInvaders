@@ -143,8 +143,8 @@ def load_score_data():
             "easy": {"score": 0, "date": "00.00.00"},
             "medium": {"score": 0, "date": "00.00.00"},
             "hard": {"score": 0, "date": "00.00.00"},
-            "easy demon": {"score": 0, "date": "00.00.00"},
-            "medium demon": {"score": 0, "date": "00.00.00"},
+            "ultra hard": {"score": 0, "date": "00.00.00"},
+            "extra": {"score": 0, "date": "00.00.00"},
         }
 
 def show_scoreboard():
@@ -304,7 +304,7 @@ def game_over_screen(score, level):
 def main_game(difficulty, resume=False, prev_score=0):
     player = Player(screen_width // 2, screen_height - 60)
     enemy_speed = {"easy": 4, "medium": 5, "hard": 6, "ultra hard": 7, "extra": 8}[difficulty]
-    enemy_count = {"easy": 15, "medium": 16, "hard": 17, "easy demon": 18, "medium demon": 19,}[difficulty]
+    enemy_count = {"easy": 15, "medium": 16, "hard": 17, "ultra hard": 18, "extra": 19,}[difficulty]
     enemies = [Enemy(random.randint(0, screen_width - enemy_img.get_width()), random.randint(-100, -40), random.randint(1, enemy_speed)) for _ in range(enemy_count)]
     bullets = []
     stars = [Star(random.randint(0, screen_width), random.randint(0, screen_height), random.uniform(1, 3), random.randint(2, 4)) for _ in range(50)]
