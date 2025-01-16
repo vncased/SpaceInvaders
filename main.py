@@ -1,4 +1,4 @@
-dimport os
+import os
 import json
 import pygame
 import random
