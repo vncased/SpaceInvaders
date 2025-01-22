@@ -234,7 +234,7 @@ def main_menu(difficulty=None, prev_score=0):
                         if menu_items[i] == "ScoreBoard":
                             show_scoreboard()
                         elif menu_items[i] == "Help":
-                            help_menu()  # вызов функции для помощи
+                            help_menu()  
                         elif menu_items[i] == "Exit":
                             pygame.quit()
                             sys.exit()
@@ -251,7 +251,7 @@ def main_menu(difficulty=None, prev_score=0):
                     if menu_items[selected_item] == "ScoreBoard":
                         show_scoreboard()
                     elif menu_items[selected_item] == "Help":
-                        help_menu()  # вызов функции для помощи
+                        help_menu() 
                     elif menu_items[selected_item] == "Exit":
                         pygame.quit()
                         sys.exit()
@@ -313,7 +313,7 @@ def main_game(difficulty, resume=False, prev_score=0):
 
     last_shot_time = pygame.time.get_ticks()
     last_triple_shot_time = pygame.time.get_ticks()
-    triple_shot_cooldown = 400  # Задержка на 400 мс
+    triple_shot_cooldown = 400  
     bullet_cooldown = 120
 
     running = True
