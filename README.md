@@ -30,8 +30,8 @@
 **If you forgot something, don't worry - you can always look at the controls in the "Help" section of the main menu.**
 
 <div style="display: flex;">
-    <img src="gp1.png" alt="Image 1">
-    <img src="gp2.png" alt="Image 2">
+    <img src=".img/gp1.png" alt="Image 1">
+    <img src=".img/gp2.png" alt="Image 2">
 </div>
 
 
