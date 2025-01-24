@@ -31,7 +31,7 @@
 
 ---
 
-![gp1](.img/gp1)
+![gp1](SpaceInvaders/.img/gp1)
 ___
 
 ![gp2](.img/gp2)
