@@ -28,12 +28,13 @@
 
 **Если вы что-то забыли, не переживайте — всегда можно посмотреть управление в разделе "Help" главного меню.**  
 **If you forgot something, don't worry - you can always look at the controls in the "Help" section of the main menu.**
-
+___
+**Screenshots**
 <div style="display: flex;">
     <img src=".img/gp1.png" alt="Image 1">
     <img src=".img/gp2.png" alt="Image 2">
 </div>
-
+___
 
 ## Установка / Installation
 
