@@ -31,10 +31,10 @@
 
 ---
 
-![gp1](SpaceInvaders/.img/gp1)
+![gp1](/.img/gp1.png)
 ___
 
-![gp2](.img/gp2)
+![gp2](.img/gp2.png)
 ___
 
 ## Установка / Installation
