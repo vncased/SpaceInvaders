@@ -31,6 +31,12 @@
 
 ---
 
+![gp1](.img/gp1)
+___
+
+![gp2](.img/gp2)
+___
+
 ## Установка / Installation
 
 ### 1. Клонируйте репозиторий / Clone the repository:
