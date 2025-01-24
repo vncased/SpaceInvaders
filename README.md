@@ -29,14 +29,11 @@
 **Если вы что-то забыли, не переживайте — всегда можно посмотреть управление в разделе "Help" главного меню.**  
 **If you forgot something, don't worry - you can always look at the controls in the "Help" section of the main menu.**
 
----
+<div style="display: flex;">
+    <img src="gp1.png" alt="Image 1">
+    <img src="gp2.png" alt="Image 2">
+</div>
 
-![gp1](/.img/gp1.png) ![gp2](.img/gp2.png)
-
-___
-
-![gp2](.img/gp2.png)
-___
 
 ## Установка / Installation
 
