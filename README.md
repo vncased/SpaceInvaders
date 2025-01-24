@@ -31,7 +31,8 @@
 
 ---
 
-![gp1](/.img/gp1.png)
+![gp1](/.img/gp1.png) ![gp2](.img/gp2.png)
+
 ___
 
 ![gp2](.img/gp2.png)
