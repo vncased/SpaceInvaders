@@ -41,7 +41,7 @@ ___
 ### 1. Клонируйте репозиторий / Clone the repository:
 
 ```bash
-git clone https://github.com/vncased/SpaceInvaders.git
+git clone https://github.com/yinmus/SpaceInvaders.git
 ```
 ### 2. Перейдите в директорию / Go to the directory:
 ```bash
